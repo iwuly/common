@@ -9,6 +9,9 @@
 | :-------- |:-------- | :--------: | 
 | [ParseUrl](./lib/parseUrl)    |  将URL参数转化为JSON对象  |    | 
 | [DateFormatter](./lib/dateFormatter)   |   将日期转化为指定格式 | [ZadaWu](https://github.com/ZadaWu)|
+| [DateCompare](./lib/dateCompare)   |   两日期对比 | [ZadaWu](https://github.com/ZadaWu)|
+| [GetRandomStr](./lib/getRandomStr)   |   获取一个指定长度的随机字符串 | |
+| [CountDown](./lib/countDown)   |   可自动校准的倒计时 | |
 
 ### How to contribute（如何贡献代码）
 
